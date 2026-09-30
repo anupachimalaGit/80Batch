@@ -1,0 +1,7 @@
+Application opened successfully
+Waited for 3 sec
+Waited for 3 sec
+Emp added successfully
+Waited for 3 sec
+Logout completed
+Waited for 3 sec
