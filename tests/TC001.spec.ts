@@ -10,5 +10,6 @@ test("Login & Logout", async({page})=>{
     await obj.logout()
     console.log("Test Case is completed")
     console.log("Test Case is completed yes")
+    console.log("Test Case is completed yes")
 
 })
